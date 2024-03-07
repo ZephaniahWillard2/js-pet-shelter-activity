@@ -46,20 +46,20 @@ document.addEventListener("DOMContentLoaded", function() {
     //STRETCH GOALS:
     // Function to check if the pet shelter has animals that need homes (based on how many animals are in the shelter)
     
-    function animalNum (){
-      let homeless = "";
-      if (shelterPets.length > 1){
-         homeless = "Animals need home";
+    // !!!!!CODE!!!!! function animalNum (){
+    //   let homeless = "";
+    //   if (shelterPets.length > 1){
+    //      homeless = "Animals need home";
          
-      }
-      else {
-        homeless = "No pets need home";
-      }
-      document.getElementById("Petsneedhome").innerHTML = homeless;
+    //   }
+    //   else {
+    //     homeless = "No pets need home";
+    //   }
+    //   document.getElementById("Petsneedhome").innerHTML = homeless;
 
-    };
+    // };
 
-    animalNum();
+    // animalNum();
 
     // below function is what i originally did, changed to above function cuz i thought we needed to display animals need a home
 
