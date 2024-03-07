@@ -2,7 +2,7 @@
 
 ## Description
 
-This project simulates a pet shelter where you can add pets, display them, and perform various operations such as checking if pets need homes and calculating the average age of pets in the shelter.
+This project simulates a pet shelter where you can add pets, display them, and perform various operations such as CHECKING IF PETS NEED HOMES and CALCULATING THE AVERAGE AGE of pets in the shelter.
 
 ## Contents
 
